@@ -8,6 +8,6 @@ features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.30
 
 [author]
-  name = "panr"
-  homepage = "https://radoslawkoziel.pl"
-  twitter = "https://twitter.com/panr"
+  name = "icaoberg"
+  homepage = "http://www.andrew.cmu.edu/~icaoberg"
+  twitter = "https://twitter.com/justahappygeek"
